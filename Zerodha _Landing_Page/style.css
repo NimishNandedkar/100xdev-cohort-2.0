@@ -34,7 +34,7 @@ body{
 .list > a{
     padding:20px;
     text-decoration: none;
-    transition: 0.3s;
+    transition:  0.3s;
     font-size : 0.9rem;
     
 }
